@@ -28,6 +28,8 @@
             android:paddingRight="8dp"
             android:scrollbars="vertical">
 
+            //please add two text fields:one with mobile no;
+
             <EditText
                 android:id="@+id/editText"
                 android:layout_width="match_parent"
